@@ -1,6 +1,6 @@
 # version-control-class
 
-MEMBERS : 
+MEMBERS : <BR>
 Aditya Tilak Sharma <BR>
 Aakriti Agrawal <BR>
 Anjali Dewari  <BR>
